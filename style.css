@@ -119,6 +119,7 @@ button {
     background-color: #633200;
     border-radius: 5px;
     font-size: large;
+    color: white;
 }
 
 button:hover {
